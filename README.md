@@ -8,16 +8,20 @@ La aplicación cuenta con un sistema de inicio de sesión (login) para autentica
 
 # Pantalla Principal
 Una vez iniciada la sesión, los mozos acceden a la pantalla principal (main), donde pueden ver y gestionar los pedidos, realizar cobros y llevar un control del estado de la caja.
+<br><br>
 ![Image_Alt](https://github.com/wilberbecerra/Chifa-Walok/blob/2642a3ad8ed8907ff781970e7e42e810e9266b06/recursos/main.jpg)
 
 # Gestión de Pedidos 
 Los mozos pueden ingresar los pedidos de los clientes, visualizarlos en tiempo real y hacer modificaciones si es necesario.
+<br><br>
 ![Image_Alt](https://github.com/wilberbecerra/Chifa-Walok/blob/2642a3ad8ed8907ff781970e7e42e810e9266b06/recursos/pedidos.jpg)
 
 # Cobro de Caja 
 La aplicación permite realizar el cobro de los pedidos mediante diferentes métodos, facilitando la gestión de pagos.
+<br><br>
 ![Image_Alt](https://github.com/wilberbecerra/Chifa-Walok/blob/2642a3ad8ed8907ff781970e7e42e810e9266b06/recursos/caja.jpg)
 
 # Cierre de Caja 
 Los mozos pueden realizar un cierre de caja al final de su turno, con el fin de registrar los ingresos y asegurarse de que todo esté en orden.
+<br><br>
 ![Image_Alt](https://github.com/wilberbecerra/Chifa-Walok/blob/2642a3ad8ed8907ff781970e7e42e810e9266b06/recursos/cierre_de_caja.jpg)
