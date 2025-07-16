@@ -3,7 +3,6 @@ Este proyecto es una aplicación móvil desarrollada en Android Studio que tiene
 
 # Login de Usuario
 La aplicación cuenta con un sistema de inicio de sesión (login) para autenticar a los mozos antes de que puedan acceder al sistema. Cada mozo puede iniciar sesión con sus credenciales para acceder a su propia interfaz y gestionar los pedidos de manera segura.
-![Image_Alt](https://github.com/wilberbecerra/Chifa-Walok/blob/2642a3ad8ed8907ff781970e7e42e810e9266b06/recursos/login.jpg)
 ![Image_Alt](https://github.com/wilberbecerra/Chifa-Walok/blob/2642a3ad8ed8907ff781970e7e42e810e9266b06/recursos/login_credenciales.jpg)
 
 # Pantalla Principal
