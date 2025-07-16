@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mesas_array">
+        <item>Seleccionar</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="platos_array">
+        <item>Seleccionar</item>
+        <item>Arroz Chaufa</item>
+        <item>Tallarín Saltado</item>
+        <item>Pollo con Verduras</item>
+        <item>Kam Lu Wantán</item>
+        <item>Chijaukay</item>
+    </string-array>
+
+
+    <string-array name="precios_array">
+        <item>0</item>
+        <item>18.0</item>
+        <item>16.0</item>
+        <item>20.0</item>
+        <item>22.0</item>
+    </string-array>
+
+    </resources>
